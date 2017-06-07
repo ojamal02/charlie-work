@@ -1,0 +1,42 @@
+body {
+  background-color: cyan;
+  font-family: helvetica;
+   text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+button {
+  background-image: url("http://charliedayquotes.com/content/uploads/avatars/Charlie2.png");
+ border: 0;  
+ height: 200px;
+  width: 200px;
+  text-align: center;
+  background-color: white;
+  margin-top: 10px;
+}
+
+.quote-box {
+  font-size: 150%; 
+  text-align: center;
+  border-style: solid; 
+  margin-left: 200px; 
+  margin-right: 200px;
+  opacity: .90; 
+  background-color: white;
+}
+
+h1 {
+  text-align: center; 
+}
+
+.socialmedia-btn {
+  background-image: url("https://fanart.tv/detailpreview/fanart/tv/75805/characterart/its-always-sunny-in-philadelphia-50da45d5d5a88.png");
+ border: 0;  
+ height: 286px;
+  width: 300px;
+  text-align: center;
+  background-color: transparent;
+}
+
+.tweet-box {
+  text-align: center;
+}
